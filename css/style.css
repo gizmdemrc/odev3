@@ -1,0 +1,26 @@
+
+.fs {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+h2, h3, h4, h5, h6, p, article {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+h1 {
+    text-align: center;
+    color: #C71585;
+}
+
+ol {
+    list-style-position: inside;
+}
+
